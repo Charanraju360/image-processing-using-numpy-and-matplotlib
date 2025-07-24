@@ -10,7 +10,7 @@ Make sure you have Python and the following libraries installed:
 
 ```bash
 pip install numpy matplotlib
-
+```
 --- 
 
 ## 📌 Features
@@ -24,7 +24,7 @@ pip install numpy matplotlib
 ---
 
 ## 📂 Folder Structure
-
+```
 image_processing_numpy/
 ├── images/
 │ └── input_image.jpg 
@@ -37,7 +37,7 @@ image_processing_numpy/
 │ ├── equalized_image.jpg
 ├── main.py 
 ├── README.md 
-
+```
 ---
 
 ## 🛠️ How to Run
@@ -47,7 +47,7 @@ If you want to try with your own image follow the instructions clone the repo fi
 
 ```bash
 python main.py
-
+```
 ---
 
 ## sample output
